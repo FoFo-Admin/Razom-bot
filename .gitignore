@@ -1,0 +1,6 @@
+venv/
+.env
+db-structure.sql
+database.sql
+.idea
+__pycache__
